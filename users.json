@@ -1,0 +1,42 @@
+[
+  {
+    "email": "tranthithu17092004@gmail.com",
+    "password": "thu123"
+  },
+  {
+    "email": "tuananh123@gmail.com",
+    "password": "tuananh123"
+  },
+  {
+    "email": "minhhieu123@gmail.com",
+    "password": "hieu123"
+  },
+  {
+    "email": "user4@example.com",
+    "password": "password012"
+  },
+  {
+    "email": "user5@example.com",
+    "password": "password345"
+  },
+  {
+    "email": "user6@example.com",
+    "password": "password678"
+  },
+  {
+    "email": "user7@example.com",
+    "password": "password901"
+  },
+  {
+    "email": "user8@example.com",
+    "password": "password234"
+  },
+  {
+    "email": "user9@example.com",
+    "password": "password567"
+  },
+  {
+    "email": "user10@example.com",
+    "password": "password890"
+  }
+]
